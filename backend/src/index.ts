@@ -1,4 +1,3 @@
-import { error } from "console";
 import app from "./app.js";
 import { connectToDatabase } from "./db/connection.js";
 
